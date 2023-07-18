@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="sanity"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="21.939">
+  <properties />
+  
+  
+            <testcase name="verifyPageNavigation" time="20.047" classname="com.tutorialninja.sw5.testsuit.HomePageTest" />
+                <testcase name="verifyUserShouldNavigateToComponentsPageSuccessfully" time="0.464" classname="com.tutorialninja.sw5.testsuit.HomePageTest" />
+                <testcase name="verifyUserShouldNavigateToLaptopsAndNotebooksPageSuccessfully" time="0.189" classname="com.tutorialninja.sw5.testsuit.HomePageTest" />
+                <testcase name="verifyUserShouldNavigateToDesktopsPageSuccessfully" time="1.239" classname="com.tutorialninja.sw5.testsuit.HomePageTest" />
+      
+</testsuite>
